@@ -1,0 +1,9 @@
+bison make
+dejavu-ttf
+gperf make
+libpng
+libressl
+libwebp
+linux-headers make
+perl make
+sdl
